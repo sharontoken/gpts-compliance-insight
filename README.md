@@ -1,4 +1,4 @@
-**🧩 GPTs Compliance Insights (GCI)**
+### 🧩 GPTs Compliance Insights (GCI)
 
 An open-source project led by Sharon Shama and developed by Gil Portnoy
 
